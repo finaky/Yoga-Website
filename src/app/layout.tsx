@@ -9,7 +9,7 @@ const philosopher = Philosopher({
 
 const source_Sans_3 = Source_Sans_3({
   variable: "--font-source-sans",
-  weight: ["400", "700"],
+  weight: ["400", "600"],
 });
 
 export const metadata: Metadata = {
